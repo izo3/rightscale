@@ -8,3 +8,12 @@ version          "0.0.1"
 depends "rs_utils"
 
 recipe "izo3::default","Prints Hello World!"
+
+attribute "about_me/first_name",
+  :required => "required",
+  :display_name => "First Name",
+  :description  => "Sufficiently described",
+  :recipes => ["izo3::default"]
+
+
+

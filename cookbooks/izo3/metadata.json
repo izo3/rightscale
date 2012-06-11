@@ -5,6 +5,19 @@
   "name": "izo3",
   "maintainer_email": "hnganchev@gmail.com",
   "attributes": {
+    "about_me/first_name": {
+      "required": "required",
+      "calculated": false,
+      "choice": [
+
+      ],
+      "type": "string",
+      "recipes": [
+        "izo3::default"
+      ],
+      "display_name": "First Name",
+      "description": "Sufficiently described"
+    }
   },
   "license": "All rights reserved",
   "suggestions": {
