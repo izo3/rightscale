@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+  },
+  "name": "izo3",
+  "maintainer_email": "hnganchev@gmail.com",
+  "attributes": {
+  },
+  "license": "All rights reserved",
+  "suggestions": {
+  },
+  "platforms": {
+  },
+  "maintainer": "Hristo Ganchev",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "version": "0.0.1",
+  "recommendations": {
+  },
+  "recipes": {
+    "izo3::default": "Prints Hello World!"
+  },
+  "groupings": {
+  },
+  "conflicting": {
+  },
+  "replacing": {
+  },
+  "description": "Installs/Configures izo3",
+  "providing": {
+  }
+}
